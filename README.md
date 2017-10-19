@@ -17,3 +17,5 @@ Install step by step webserver on ubuntu 16.04 LTS
 ## dev@north-d:~$ sudo a2ensite default-ssl.conf
 ## dev@north-d:~$ systemctl restart apache2 
 done
+
+sumber: https://www.howtoforge.com/tutorial/install-apache-with-php-and-mysql-on-ubuntu-16-04-lamp/
